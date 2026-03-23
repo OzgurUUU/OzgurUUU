@@ -33,7 +33,7 @@ I am a highly motivated **Computer Engineering Sophomore** at Alparslan Turkes S
 
 ### 🚀 Featured Projects
 
-* 📚 **[LibraryMVC](https://github.com/OzgurUUU/YOUR-REPO-LINK-HERE):** A comprehensive full-stack library management system built with C# .NET Core and Angular.
+* 📚 **[LibraryMVC](https://github.com/OzgurUUU/LibraryMVC):** A comprehensive library management system built with ASP.NET Core MVC and Entity Framework Core, featuring dynamic server-side rendering.
 * 🏰 **[Tower Defense Game](https://github.com/OzgurUUU/produccct-app/tree/main/BigPage/src/app/components/tower-defense):** An interactive, web-based strategy game developed entirely with Angular components.
 * 🕹️ **[Interactive Tetris Clone](https://github.com/OzgurUUU/YOUR-REPO-LINK-HERE):** A classic Tetris game built from scratch using TypeScript and HTML5 Canvas.
 * 📈 **[Live Financial Data Hub](https://github.com/OzgurUUU/produccct-app/tree/main/BigPage/src/app/components/ecosystem-hub):** A dynamic real-time dashboard consuming third-party financial APIs.
