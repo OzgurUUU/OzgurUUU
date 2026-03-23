@@ -39,6 +39,3 @@ I am a highly motivated **Computer Engineering Sophomore** at Alparslan Turkes S
 * 📈 **[Live Financial Data Hub](https://github.com/OzgurUUU/YOUR-REPO-LINK-HERE):** A dynamic real-time dashboard consuming third-party financial APIs.
 
 ---
-
-### 📊 GitHub Stats
-![Özgür's GitHub stats](https://github-readme-stats.vercel.app/api?username=OzgurUUU&show_icons=true&theme=radium)
