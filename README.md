@@ -38,4 +38,3 @@ I am a highly motivated **Computer Engineering Sophomore** at Alparslan Turkes S
 * 🕹️ **[Interactive Tetris Clone](https://github.com/OzgurUUU/YOUR-REPO-LINK-HERE):** A classic Tetris game built from scratch using TypeScript and HTML5 Canvas.
 * 📈 **[Live Financial Data Hub](https://github.com/OzgurUUU/YOUR-REPO-LINK-HERE):** A dynamic real-time dashboard consuming third-party financial APIs.
 
----
