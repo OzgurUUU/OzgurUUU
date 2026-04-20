@@ -13,23 +13,45 @@ I am a highly motivated **Computer Engineering Sophomore** at Alparslan Turkes S
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages:**
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Frontend & Backend:**
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-**Databases, Tools & Architecture:**
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-*SignalR • Entity Framework Core • RESTful APIs • Asynchronous Programming • OOP*
+<table style="width: 100%; text-align: left;">
+  <tr style="border-bottom: 2px solid #5c2d91;">
+    <th style="width: 30%; font-size: 16px;">Category</th>
+    <th style="font-size: 16px;">Technologies & Skills</th>
+  </tr>
+  <tr style="border-bottom: 1px solid #3c3c3c;">
+    <td><b>Languages:</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    </td>
+  </tr>
+  <tr style="border-bottom: 1px solid #3c3c3c;">
+    <td><b>Frontend & Backend:</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net">
+      <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    </td>
+  </tr>
+  <tr style="border-bottom: 1px solid #3c3c3c;">
+    <td><b>Databases & Advanced:</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Architecture & Tools:</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <br><br>
+      <i>SignalR • Entity Framework Core • RESTful APIs • Asynchronous Programming • OOP</i>
+    </td>
+  </tr>
+</table>
 
 ---
 
